@@ -29,6 +29,8 @@ TODO
 
 ## Infrastructure, formats, and standardization of data on the DANDI archive
 
+# assign rly
+
 - summarize the technical discussion from the third day; assign Yarik, Oliver, and perhaps Horea?
 - emphasize why rigorous data formats like NWB are necessary for an efficient archive and why a persistent docustore representation is easier to maintain than a live database (since we get this question a fair amount by experimental groups both large and small)
 
