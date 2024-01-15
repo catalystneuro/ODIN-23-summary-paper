@@ -1,6 +1,8 @@
 # ODIN-23 Summary
 
-A white paper summarizing the ODIN 2023 symposium and its discussions.
+A social commentary paper summarizing the ODIN 2023 symposium and its discussions.
+
+
 
 # For authors
 
