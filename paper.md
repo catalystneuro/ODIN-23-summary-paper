@@ -1,12 +1,3 @@
-**Guiding principles**
-
-- try to be as concise as possible with this paper; a lot happened and it would take a lot of text space to describe everything in detail
-- a big point to the release of this paper is the transparency it will afford to what was otherwise a fairly tight-knit conference that will no doubt receive ongoing attention from the community (based on how quickly the signups for the event filled up)
-- up until the technical discussions of the third day, attempt to minimize specific references to the DANDI archive; it is no secret that the DANDI team organized the conference, and slight preference was given to selecting speakers that have high-profile dandisets, but the conference itself was not intended as a direct advertisement of the archive; rather it indirectly showed all the great science that could be enabled if open data sharing as a guiding principle was more prominent in our field
-- the technical discussions from the last day inevitably became questions of how to make the archive better, so making that the focus of the last section is fine; also using this as an opportunity to publicize the DANDI roadmap a bit more explicitly would be great
-
-
-
 # Abstract
 
 Probably leave this for last, if we need it.
