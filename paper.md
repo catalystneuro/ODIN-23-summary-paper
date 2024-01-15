@@ -63,6 +63,8 @@ One thing I would mention here is the internal discussions we've always had that
 
 # Looking forward
 
+The organizers of ODIN would like to thank all the speakers for being so concise in their presentations. They would also like participants for being so active in the conference and ensuing discussions. There is a strong interest in ODIN have indicated a strong interest in this gathering continuing as a yearly event to be used to facilitate open channels of communication across the diverse areas of neurophysiology and systems neuroscience.
+
 ## Harnessing large language models (LLMs) to improve the user experience
 
 - current advances across the field (OntoGPT, CN onto recommender service)
