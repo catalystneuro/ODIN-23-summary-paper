@@ -117,6 +117,8 @@ Likewise, there were no comments by participants regarding a lack of compute res
 
 # Looking forward
 
+The organizers of ODIN would like to thank all the speakers for being so concise in their presentations. They would also like to thank participants for being so active in the conference and ensuing discussions. There is a strong interest in this gathering continuing as a yearly event to facilitate open channels of communication across the diverse areas of neurophysiology and systems neuroscience.
+
 ## Harnessing large language models (LLMs) to improve the user experience
 
 - current advances across the field (OntoGPT, CN onto recommender service)
