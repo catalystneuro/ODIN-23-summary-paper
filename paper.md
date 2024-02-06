@@ -99,11 +99,13 @@ Likewise, there were no comments by participants regarding a lack of compute res
 
 ### Vocabulary of neural patterns
 
+While there has been some progress towards standardizing representations of behavior, less agreement has been reached in regards to characterizing repeated micropatterns of neural activity. 
+
+These differences in human codification, even among experts, are not unique to neurophysiology - [mention and cite pathology and ecology examples]. In some cases, such as experimentally induced stimulation, one way to improve specificity and consistency could be to allocate some portions of public datasets to be hidden from direct access but usable for serverside verification; a common approach for testing machine learning methods, especially in competition frameworks.
+
 [Human eye may not be best? Computer vision, cell types, other metadata]
 
 [Catherine’s example of human consensus among pathologists which was highly variant. I think there was another case we can cite with climate science?]
-
-[Human visualizations of information are not consistent or agreed upon - different answers among experts even on ground truth]
 
 [Possible solution could be to codify how humans do things to inform algorithms]
 
