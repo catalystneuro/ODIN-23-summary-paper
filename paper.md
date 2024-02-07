@@ -99,21 +99,11 @@ Likewise, there were no comments by participants regarding a lack of compute res
 
 ### Vocabulary of neural patterns
 
-While there has been some progress towards standardizing representations of behavior, less agreement has been reached in regards to characterizing repeated micropatterns of neural activity. 
+While there has been some progress towards standardizing representations of behavior, less agreement has been reached concerning the characterization of repeated micropatterns of neural activity. This includes the classification of cell type from the waveform of the unit following a spike event or types of ripple activity over time or in response to stimuli. Yet these are often classifications made in practice towards the goal of answering a scientific question; in these cases, the labeling of activity is done using the human eye and judgment, including knowledge of behavior tasks or sleep states which could not be determined by looking at raw data alone. Members of this symposium believe this may not be the most rigorous method of describing patterns of neural activity and recommend further efforts in standardizing such definitions. A neural avalanche (defined as "a sequence of consecutively active frames that was preceded by a blank frame and ended by a blank frame was called an avalanche", using a 'reasonable' choice of $\Delta t$ time window [10.1523/JNEUROSCI.23-35-11167.2003]) is a good example of such a quantification that has reached common agreed-upon criteria throughout a community of researchers.
 
-These differences in human codification, even among experts, are not unique to neurophysiology - [mention and cite pathology and ecology examples]. In some cases, such as experimentally induced stimulation, one way to improve specificity and consistency could be to allocate some portions of public datasets to be hidden from direct access but usable for serverside verification; a common approach for testing machine learning methods, especially in competition frameworks.
+These differences in human codification, even among experts, are not unique to neurophysiology - [Catherine’s example of human consensus among pathologists which was highly variant. I think there was another case we can cite with climate science?]. In some cases, such as experimentally induced stimulation, one way to improve specificity and consistency could be to allocate some portions of public datasets to be hidden from direct access but usable for serverside verification; a common approach for testing machine learning methods, especially in competition frameworks.
 
-[Human eye may not be best? Computer vision, cell types, other metadata]
-
-[Catherine’s example of human consensus among pathologists which was highly variant. I think there was another case we can cite with climate science?]
-
-[Possible solution could be to codify how humans do things to inform algorithms]
-
-[Example of sharp wave ripple definition; can even depend on knowledge of behavior task and sleep states, might not be able to tell from raw data alone]
-
-[cite BBQS brain behavioral quantification synchronization should try to solve this problem]
-
-[callback to HED for example of how a common language can be done in other aspects]
+Here we have a dilemma; researchers must make assumptions relevant to their hypothesis of interest to reach local conclusions in the context of their study. However, the wider scientific community would benefit from having a set of common precise metrics by which to use in referencing their classification of events. Thankfully, funding agencies such as the NIH have been aware of this shortcoming of neuroscience for some time, going so far as to launch a new initiative for Brabin Behavior Quantification Synchronization (BBQS) [how to cite?] to seek answers to such questions.
 
 
 
