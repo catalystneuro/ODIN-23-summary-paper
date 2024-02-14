@@ -88,6 +88,10 @@ The second case is adequate documentation of anomalies that occurred during the 
 
 ## Temporal alignment of neural and behavioral streams
 
+The typical structure of neurophysiology experiments involves simultaneous acquisition from neural recordings and behavioral tracking. Given the fast timescales of neural activity, it is extremely important to have precise synchronization between these data streams. Over time, individual labs have either had to develop in-house approaches to the design of their rigs on a per-experiment basis, or otherwise purchase pre-fabricated setups offered by select manufacturers. The latter can be very expensive - as well as induce vendor lockin for both systems - and the former adds another level of complexity that must be considered in the design of the experiment. This complexity is raised by this discussion group as one of the predominant challenges for good experimental design in our field of neuroscience. Exacerbating this challenge is a lack of educational resources and common 'how to' guides that could help students and newly started labs reduce the barrier of entry.
+
+
+
 [Difficulty of temporal alignment in task protocols and lack of standard supported approaches (labs usually have to rig them entirely themselves ad hoc) - connects to bigger problem of not having a common archive of something more basic than a session of a neuroscience experiment; a standard way of describing task protocols and a common place to search for those that might be similar]
 
 [should we mention the pragmatic value of learning to do things ourselves? Or stick to benefits of offloading the cognitive burden? Danger of generational inheritance of pre-built rigs may not understand…  Quote from discussion, “Many students hated it, many loved it and learned alot from it”]
