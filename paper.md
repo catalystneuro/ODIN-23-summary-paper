@@ -14,14 +14,15 @@ Probably leave this for last, if we need it.
 
 All talks and ensuing discussions were recorded live and released publicly on the DANDI youtube page (https://www.youtube.com/@dandiarchive/playlists).
 
+[Question: What do we want to do in terms of speaker names and bibliographical references?]
 
 1.1 New devices and high throughput acquisitions
 
-[...]
+When selecting brain recording technologies to use in their studies, researchers generally must make a compromise between optimizing temporal resolution, spatial resolution and brain coverage. Fortunately, new technologies continue to push the boundaries of this trade-off, improving the combined resolution and coverage that can be achieved using a single recoding modality. These include the Neuropixel, a silicon probe which allows high-density simultaneous recording of hundreds of neurons in awake and freely moving animals [Jun et al., 2017, Nature]. More recently, thin-film, multithousand-channel recording grids using platinum nanrods (PtNRGrids) have been developed which enable highly dense recordings of brain surface activity in human patients, allowing researchers to resolve the dynamics of normal and pathological activity at high spatial and temporal resolutions [Tchoe et al., 2022, Science Translational Medicine]. In the field of two-photon imaging, light beads microscopy now enables volumetric recordings of single cell activity across the entire cortex [Demas et al., 2021, Nature Methods]. At the circuit level, improvements in voltage imaging now allow researchers to optically resolve sub-threshold activity across the dendritic tree of single cells [Adam et al., 2019, Nature].
 
-[The most important thing to note here is the FAQ of ‘can DANDI handle all the raw data’ + ‘what about PB scale data’? + Satras answer of ‘until we generate 25+ PB a year, like CERN, we won’t have to think about storing only processed data’]
+Technological advances such as these are poised to revolutionize the quantity and quality of data available to the neuroscience community. However, the high-throughput of these devices in turn raises an important concern for open science: Will neurophysiological data repositories be able to handle the TBs of data generated, or will we have to move to storing only pre-processed data? For large-scale repositories like DANDI, the answer is that until we begin to generate 25+ PB a year, like the European Organization for Nuclear Research (CERN) does, there is sufficient capacity to store and share this data.
 
-1.2 Neuroinformatics of Neurophysiologyneurophysiology
+1.2 Neuroinformatics of Neurophysiology
 
 [...]
 
