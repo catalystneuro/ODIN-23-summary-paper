@@ -14,7 +14,7 @@ Probably leave this for last, if we need it.
 
 All talks and ensuing discussions were recorded live and released publicly on the DANDI youtube page (https://www.youtube.com/@dandiarchive/playlists).
 
-[Question: What do we want to do in terms of speaker names and bibliographical references?]
+[Question: What do we want to do in terms of speaker names and bibliographical references? I've referenced when it seemed applicable, but mostly refer to project names and not the authors/creators.]
 
 1.1 New devices and high throughput acquisitions
 
@@ -33,13 +33,18 @@ Looking forward, it is clear that tools such as these are critical for ensuring 
 
 1.3 Platforms/Infrastructures
 
-[...]
+As the complexity, operational cost and scale of new neurophysiology technologies has increased, so has the challenge of ensuring the importance of developing large-scale collaborative projects, going beyond the traditional single laboratory model. Such projects allow large groups of researchers with wide-ranging expertise and access to cutting-edge technologies to collaborate on the creation of high quality datasets for the community at large to use. For example, Japanese Brain/MINDS brain-mapping project enabling the creation of a comprehensive and integrated database of marmoset brains [Okano & Mitra, 2015, Neuroscience Research; Woodward et al., 2018, Scientific Data; Hata et al., Scientific Data, 2023; Skibbe et al., 2023, PLoS Biology]. The Allen Institute for Neural Dynamics has been working on collecting large-scale neural circuit mapping data in mice, to add to the Allen Institute's openly shared datasets. To support open, reproducible, and versioned analysis and processing, they aim to deploy public analysis pipelines, alongside their datasets, using tools like Code Ocean, which provides an interactive interface for scientists to explore and analyse datasets without having to develop all the skills of a software engineer.
+
+Also leveraging the Allen Institute's extensive resource, the OpenScope initiative was created to support researchers who have ideas for valuable datasets, but lack the necessary resources to collect them in their own laboratories. Experimental proposals from external scientists are selected yearly for their feasibility and scientific merit, and deployed in close collaboration, using the Allen Brain Observatory pipeline. After an initial period during which the proposing team has priority access, the datasets are published for open access use by the neuroscience community at large. The International Brain Laboratory (IBL), for its part, provides a decentralized model for ensuring the reproducibility and reliability of neuroscience data and research. For its first project, the IBL, comprising researchers from 22 laboratories in 6 countries, collaborated on designing a standardized experiment for probing the role of neural circuits in decision-making. Once the experiment, standardized from data collection to analysis, had been carried out in each laboratory, the findings and data were jointly published, to ensure maximal reproducibility and reliability of the findings [The International Brain Laboratory et al., 2021, eLife; The International Brain Laboratory et al., 2023, bioRxiv]. As of neuroscience research matures and projects increase in scope and complexity,
+initiatives like these, which connect traditional academic research laboratories around the world and generate foundational databases for the field, will become increasingly important.
 
 2.1 “OpenData2Knowledge”
 
 [...]
 
 2.2 Neuroscience Toolkits
+
+[Dr. Mathis's talk on CEBRA here]
 
 [...]
 
