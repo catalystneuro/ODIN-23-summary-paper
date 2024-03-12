@@ -6,6 +6,16 @@ Probably leave this for last, if we need it.
 
 # Introduction
 
+The symposium for Open Data in Neuroscience (ODIN) 2023 was the first meeting organized by the initiative of the same name from the McGovern Institute for Brain Research at the Massachusetts Institute of Technology. The gathering sought to bring together scientists at the forefront of developing state-of-the-art tools, methods, and models for neurophysiology data. Special attention was given to recent and in-progress advances in anticipation of what these technologies would be capable of achieving in the coming years, with a strong emphasis on what challenges they might pose to current data infrastructure (both storage and computation), as well as a solicitation of ideas and discussion for alleviating such challenges.
+
+The format of the meeting consisted of rounds of lightning presentations (10-15 minute maximum) organized by topic, similar to the style of Brain Initiative meetings and short talks at COSYNE. These topics spanned acquisition devices, informatics, processing methods, and simulated models of neural activity. Highlighted throughout were recent large scale open releases of neurodata, as well as new insights that have been gleaned from previously released datasets. Presenters were chosen by the organizing board from a competitive pool of scientists representing a diverse range of subfields of neurophysiology; the presenters spanned a range of early career to veteran members of the community.
+
+Each round of talks was followed by an interactive discussion between the audience and presenters. Each day was additionally followed by a group discussion which focused on common themes linking that day's topics.
+
+In the final day of the meeting, the audience and presenters broke into small discussion groups tasked with delving in greater detail into the problems faced by neurophysiology as a field, and proposed solutions.
+
+In this paper, we have compiled brief summaries of each round of talks (the full versions of which have been freely posted online for public viewing), as well as syntheses of the breakout sessions on the final day, which have not previously been made publicly available.
+
 
 
 # Summary of symposium and large group discussions
